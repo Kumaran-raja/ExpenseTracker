@@ -1,0 +1,26 @@
+select{
+    width: 150px;
+    height: 30px;
+}
+
+.tbhead{
+    font-weight: bold;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.top{
+    margin-top: 30px;
+}
+
+input{
+    height: 30px;
+}
+button{
+    background-color: green;
+    color: white;
+}
+.col-2{
+    text-align: center;
+    margin-top: 10px;
+}
